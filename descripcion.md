@@ -1,0 +1,1 @@
+El dataset trata de que tan probable es que una persona deje de usar un sevicio. El Dataset contiene info sobre su contexto social, economico y su relacion con el servicio. La mayoria de los resultados son negativos.
